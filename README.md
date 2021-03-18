@@ -4,9 +4,9 @@ pkg install git
 
 pkg install ffmpeg
 
-git clone https://github.com/Mr-Pato/V2Patowsp
+git clone 
 
-cd V2Patowsp
+cd 
 
 bash install.sh
 
